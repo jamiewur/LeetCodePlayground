@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HammingDIstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MergeTowBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/RobotReturnToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SquaresSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/UniqueEmailAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SelfDividingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MergeTowBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="87">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -73,8 +68,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SelfDividingNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,12 +119,13 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HammingDIstance.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MergeTowBinaryTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SelfDividingNumbers.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-51" />
-    <option name="y" value="38" />
+    <option name="x" value="-1079" />
+    <option name="y" value="354" />
     <option name="width" value="1920" />
     <option name="height" value="741" />
   </component>
@@ -221,15 +229,15 @@
       <updated>1559707772792</updated>
       <workItem from="1559707777187" duration="12385000" />
       <workItem from="1559886272215" duration="22099000" />
-      <workItem from="1560412172610" duration="16341000" />
+      <workItem from="1560412172610" duration="19667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50825000" />
+    <option name="totallyTimeSpent" value="54151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-51" y="38" width="1920" height="741" extended-state="0" />
+    <frame x="-588" y="448" width="1920" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015975" />
@@ -360,17 +368,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MergeTowBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="87">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MergeTowBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Assist/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SelfDividingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
