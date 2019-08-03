@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ArrayPartitionI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/PeakIndexMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SimilarRGBColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,19 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DefangingIPAddress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DIStringMatch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HighFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="345">
               <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,14 +95,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ArrayPartitionI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SimilarRGBColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -166,12 +161,13 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LargestUniqueNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/PeakIndexMountainArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ArrayPartitionI.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberOfRecentCalls.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SimilarRGBColor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="673" />
-    <option name="y" value="354" />
+    <option name="y" value="206" />
     <option name="width" value="1280" />
     <option name="height" value="741" />
   </component>
@@ -284,18 +280,19 @@
       <workItem from="1563941699380" duration="2665000" />
       <workItem from="1564293858199" duration="6424000" />
       <workItem from="1564383267395" duration="15855000" />
-      <workItem from="1564552910281" duration="824000" />
+      <workItem from="1564552910281" duration="1555000" />
+      <workItem from="1564726014662" duration="5252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93080000" />
+    <option name="totallyTimeSpent" value="99063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="673" y="354" width="1280" height="741" extended-state="0" />
+    <frame x="0" y="206" width="1280" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22778675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23101777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -310,7 +307,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20647149" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15716487" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Sequence" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -465,6 +462,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberOfRecentCalls.java" />
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DIStringMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -488,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HighFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="345">
           <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -510,13 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/PeakIndexMountainArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LargestUniqueNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -527,13 +518,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/PeakIndexMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SimilarRGBColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
         </state>
       </provider>
     </entry>
