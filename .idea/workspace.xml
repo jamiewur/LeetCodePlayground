@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SubtractProductSumOfDigitsAnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindNumbersEvenNumberDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,29 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DecompressRunLengthEncodedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberStepsReduceNumbertoZero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SubtractProductSumOfDigitsAnInteger.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindNumbersEvenNumberDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -62,6 +44,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberStepsReduceNumbertoZero.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ProductSalesAnalysisI.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SubtractProductSumOfDigitsAnInteger.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindNumbersEvenNumberDigits.java" />
       </list>
     </option>
   </component>
@@ -236,18 +219,19 @@
       <workItem from="1573439630936" duration="1544000" />
       <workItem from="1574220395714" duration="3035000" />
       <workItem from="1580791966813" duration="5207000" />
-      <workItem from="1581302955357" duration="1947000" />
+      <workItem from="1581302955357" duration="2141000" />
+      <workItem from="1581382635950" duration="1538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7541000" />
+    <option name="totallyTimeSpent" value="9273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -316,6 +300,20 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SubtractProductSumOfDigitsAnInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberStepsReduceNumbertoZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DecompressRunLengthEncodedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -323,17 +321,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NumberStepsReduceNumbertoZero.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindNumbersEvenNumberDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SubtractProductSumOfDigitsAnInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
