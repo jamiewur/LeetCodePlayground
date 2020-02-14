@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/CellswithOddValuesMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IntersectionThreeSortedArrays.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/CellswithOddValuesMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IntersectionThreeSortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +137,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/Maximum69Number.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MinimumTimeVisitingAllPoints.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/CellswithOddValuesMatrix.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IntersectionThreeSortedArrays.java" />
       </list>
     </option>
   </component>
@@ -312,12 +324,12 @@
       <workItem from="1581302955357" duration="2141000" />
       <workItem from="1581382635950" duration="2965000" />
       <workItem from="1581473796146" duration="3638000" />
-      <workItem from="1581563387128" duration="6553000" />
+      <workItem from="1581563387128" duration="8287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20903000" />
+    <option name="totallyTimeSpent" value="22637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1280" height="735" extended-state="0" />
@@ -474,8 +486,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/CellswithOddValuesMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IntersectionThreeSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
