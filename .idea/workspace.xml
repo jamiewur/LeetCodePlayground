@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/GenerateStringCharactersHaveOddCounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LuckyNumbersMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/GenerateStringCharactersHaveOddCounts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LuckyNumbersMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="43" column="22" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="43" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -92,6 +101,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/DestinationCity.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IncreasingDecreasingString.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/GenerateStringCharactersHaveOddCounts.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LuckyNumbersMatrix.java" />
       </list>
     </option>
   </component>
@@ -290,12 +300,12 @@
       <workItem from="1588763990412" duration="1476000" />
       <workItem from="1588824754799" duration="4797000" />
       <workItem from="1588937783300" duration="4560000" />
-      <workItem from="1589024754388" duration="1670000" />
+      <workItem from="1589024754388" duration="3662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11027000" />
+    <option name="totallyTimeSpent" value="13019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
@@ -409,8 +419,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/GenerateStringCharactersHaveOddCounts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/LuckyNumbersMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="43" selection-end-column="22" />
         </state>
       </provider>
     </entry>
