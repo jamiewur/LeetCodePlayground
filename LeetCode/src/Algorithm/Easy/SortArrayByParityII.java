@@ -7,7 +7,7 @@ public class SortArrayByParityII {
                 main: for (int p = c + 1; p < A.length; p++) {
                     if (p % 2 != A[p] % 2 )
                     {
-                        
+
                         if ( A[c] % 2 != A[p] % 2)
                         {
                             int swap = A[c];
