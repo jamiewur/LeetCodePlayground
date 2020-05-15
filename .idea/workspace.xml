@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HowManyApplesCanPutInBasket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -382,12 +380,12 @@
       <workItem from="1588937783300" duration="4560000" />
       <workItem from="1589024754388" duration="11216000" />
       <workItem from="1589155421022" duration="32731000" />
-      <workItem from="1589525042054" duration="1457000" />
+      <workItem from="1589525042054" duration="2429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54761000" />
+    <option name="totallyTimeSpent" value="55733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
@@ -684,8 +682,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>
