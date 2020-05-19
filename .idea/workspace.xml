@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,15 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/HowManyApplesCanPutInBasket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,11 +67,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FibonacciNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -167,6 +168,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindWordsThatCanBeFormeCharacters.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ProjectionAreaof3DShapes.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FibonacciNumber.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java" />
       </list>
     </option>
   </component>
@@ -376,12 +378,12 @@
       <workItem from="1589024754388" duration="11216000" />
       <workItem from="1589155421022" duration="32731000" />
       <workItem from="1589525042054" duration="4931000" />
-      <workItem from="1589782012691" duration="4933000" />
+      <workItem from="1589782012691" duration="6509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63168000" />
+    <option name="totallyTimeSpent" value="64744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
@@ -708,6 +710,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
