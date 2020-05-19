@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MinimumValueGetPositiveStepStepSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,15 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindDistanceValueBetweenTwoArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/RelativeSortArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MinimumValueGetPositiveStepStepSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -169,6 +168,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ProjectionAreaof3DShapes.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FibonacciNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindLuckyIntegerinArray.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MinimumValueGetPositiveStepStepSum.java" />
       </list>
     </option>
   </component>
@@ -378,12 +378,12 @@
       <workItem from="1589024754388" duration="11216000" />
       <workItem from="1589155421022" duration="32731000" />
       <workItem from="1589525042054" duration="4931000" />
-      <workItem from="1589782012691" duration="6509000" />
+      <workItem from="1589782012691" duration="11221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64744000" />
+    <option name="totallyTimeSpent" value="69456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
@@ -717,6 +717,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/MinimumValueGetPositiveStepStepSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
