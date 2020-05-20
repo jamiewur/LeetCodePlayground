@@ -4,7 +4,7 @@ public class ConsecutiveCharacters {
     public int maxPower(String s) {
         if (s.length() == 0) return 0;
 
-        int max = 0; int count = 1; char current = ' ';
+        int max = 0; int count = 0; char current = ' ';
 
         for (char c: s.toCharArray()) {
             if (current == ' ') {
