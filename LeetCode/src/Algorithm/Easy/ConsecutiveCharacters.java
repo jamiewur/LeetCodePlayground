@@ -1,6 +1,7 @@
 package Algorithm.Easy;
 
 public class ConsecutiveCharacters {
+
     public int maxPower(String s) {
         if (s.length() == 0) return 0;
 
