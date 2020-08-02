@@ -27,8 +27,8 @@ public class Test8 {
                 m.put(t[j], check);
             }
         }
-        int res =
-        return ;
+        int res = 1;
+        return 0;
     }
 
     public static void main(String[] args) {
