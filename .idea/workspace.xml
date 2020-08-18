@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/ReformatDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/NextGreaterElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -217,7 +217,7 @@
       <workItem from="1589782012691" duration="21345000" />
       <workItem from="1595472502800" duration="1140000" />
       <workItem from="1595916902425" duration="27758000" />
-      <workItem from="1597564002288" duration="7421000" />
+      <workItem from="1597564002288" duration="8602000" />
     </task>
     <servers />
   </component>
