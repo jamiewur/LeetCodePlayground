@@ -34,8 +34,5 @@ public class UncommonWordsTwoSentences {
     public static void main(String[] args) {
         UncommonWordsTwoSentences un = new UncommonWordsTwoSentences();
         System.out.println(un.uncommonFromSentences("a b c ", "a b f"));
-        for (int i = 0; i ; i++) {
-
-        }
     }
 }
