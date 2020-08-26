@@ -12,6 +12,6 @@ public class Test7 {
 
     public static void main(String[] args) {
         Test7 t = new Test7();
-        System.out.println(t.solution(7500));
+        System.out.println(1/2);
     }
 }
