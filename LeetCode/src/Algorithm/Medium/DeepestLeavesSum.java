@@ -1,4 +1,4 @@
-package Algorithm.Easy;
+package Algorithm.Medium;
 
 import Algorithm.Assist.TreeNode;
 
