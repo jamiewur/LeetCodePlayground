@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IsSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArmstrongNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArrayPartitionI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArrayPartitionI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DIStringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DIStringMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DefangingIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DefangingIPAddress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DivisorGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DivisorGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindAnagramMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindAnagramMappings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindCommonCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindCommonCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FixedPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FixedPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FlippingImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FlippingImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/GroupSpecialEquivalentStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/GroupSpecialEquivalentStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HammingDIstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HammingDIstance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HighFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HighFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/IslandPerimeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/IslandPerimeter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/JewelsandStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/JewelsandStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/KeyboardRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/KeyboardRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LargestUniqueNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LargestUniqueNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LastStoneWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LastStoneWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LeafSimilarTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LeafSimilarTrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MatrixCellsDistanceOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MatrixCellsDistanceOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MaximumDepthBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MaximumDepthBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MergeTowBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MergeTowBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MiddleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MiddleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NRepeatedElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NRepeatedElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberComplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberComplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberLinesToWriteString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberLinesToWriteString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/PeakIndexMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/PeakIndexMountainArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RangeSumOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RangeSumOfBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveAdjDuplicatesString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveAdjDuplicatesString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveOutermostParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveOutermostParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveVowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseWordsStringIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseWordsStringIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RobotReturnToOrigin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RobotReturnToOrigin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SelfDividingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SelfDividingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ShortestDistanceCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ShortestDistanceCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SimilarRGBColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SimilarRGBColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SmallestRangeI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SmallestRangeI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SortArrayByParity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SortArrayByParity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SquaresSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SquaresSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumDigitsMinimumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumDigitsMinimumNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumEvenNumbersAfterQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumEvenNumbersAfterQueries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToLowerCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToeplitzMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToeplitzMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TransposeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TransposeMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TwoSumLessThanK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TwoSumLessThanK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueEmailAddresses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueEmailAddresses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueMorseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueMorseCode.class" afterDir="false" />
-    </list>
+    <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +235,7 @@
       <workItem from="1599788459233" duration="3884000" />
       <workItem from="1599992760408" duration="2822000" />
       <workItem from="1600134296213" duration="2257000" />
-      <workItem from="1646180260895" duration="5954000" />
+      <workItem from="1646180260895" duration="6655000" />
     </task>
     <servers />
   </component>
