@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Medium/MaximumDifferenceBetweenNodeAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Assist/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArrayPartitionI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ArrayPartitionI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DIStringMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DIStringMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DefangingIPAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DefangingIPAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DivisorGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/DivisorGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindAnagramMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindAnagramMappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindCommonCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FindCommonCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FixedPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FixedPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FlippingImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/FlippingImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/GroupSpecialEquivalentStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/GroupSpecialEquivalentStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HammingDIstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HammingDIstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HighFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/HighFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/IslandPerimeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/IslandPerimeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/JewelsandStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/JewelsandStones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/KeyboardRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/KeyboardRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LargestUniqueNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LargestUniqueNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LastStoneWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LastStoneWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LeafSimilarTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/LeafSimilarTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MatrixCellsDistanceOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MatrixCellsDistanceOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MaximumDepthBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MaximumDepthBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MergeTowBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MergeTowBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MiddleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/MiddleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NRepeatedElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NRepeatedElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberComplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberComplement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberLinesToWriteString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/NumberLinesToWriteString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/PeakIndexMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/PeakIndexMountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RangeSumOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RangeSumOfBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveAdjDuplicatesString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveAdjDuplicatesString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveOutermostParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveOutermostParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RemoveVowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseWordsStringIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ReverseWordsStringIII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RobotReturnToOrigin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/RobotReturnToOrigin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SelfDividingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SelfDividingNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ShortestDistanceCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ShortestDistanceCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SimilarRGBColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SimilarRGBColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SmallestRangeI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SmallestRangeI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SortArrayByParity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SortArrayByParity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SquaresSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SquaresSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumDigitsMinimumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumDigitsMinimumNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumEvenNumbersAfterQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/SumEvenNumbersAfterQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToLowerCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToeplitzMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/ToeplitzMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TransposeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TransposeMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TwoSumLessThanK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/TwoSumLessThanK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueEmailAddresses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueEmailAddresses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueMorseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Algorithm/Easy/UniqueMorseCode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +88,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1Safkb5OOB8MEJBtym5e0jqcNUB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,18 +123,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.Test7">
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Easy.Test6" />
+  <component name="RunManager" selected="Application.IsSubsequence">
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Easy.IsSubsequence" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Algorithm.Medium.*" />
+          <option name="PATTERN" value="Algorithm.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsSubsequence" />
         <item itemvalue="Application.WaterBottles" />
         <item itemvalue="Application.UncommonWordsTwoSentences" />
         <item itemvalue="Application.Test8" />
         <item itemvalue="Application.Test7" />
-        <item itemvalue="Application.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +289,7 @@
       <workItem from="1599788459233" duration="3884000" />
       <workItem from="1599992760408" duration="2822000" />
       <workItem from="1600134296213" duration="2257000" />
+      <workItem from="1646180260895" duration="5954000" />
     </task>
     <servers />
   </component>
@@ -256,50 +320,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598949353450">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598949353450" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1009@0.23.1920.1009" timestamp="1597462468369" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598949353447">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598949353447" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1009@0.23.1920.1009" timestamp="1597462468365" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598949353446">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1080" timestamp="1598949353347" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598949353446" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1009@0.23.1920.1009" timestamp="1597462468364" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598949353449">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598949353449" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1009@0.23.1920.1009" timestamp="1597462468368" />
-    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1597462469003">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597462469003" />
-    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1597462469000">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597462469000" />
-    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1597462468999">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597462468999" />
-    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1597462469001">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1878" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597462469001" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1597983930602">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597983930602" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -316,6 +336,11 @@
           <url>file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/WaterBottles.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/IsSubsequence.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
