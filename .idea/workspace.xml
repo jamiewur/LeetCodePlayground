@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3353e84f-651a-4ed1-8f7d-d6663e9fe90f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/SortingTheSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Algorithm/Easy/FindCenterOfStarGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,6 +243,7 @@
       <workItem from="1600134296213" duration="2257000" />
       <workItem from="1646180260895" duration="7222000" />
       <workItem from="1646695919058" duration="2283000" />
+      <workItem from="1646787080416" duration="1653000" />
     </task>
     <servers />
   </component>
